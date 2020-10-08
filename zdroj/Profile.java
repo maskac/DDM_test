@@ -153,10 +153,10 @@ public class Profile {
         return units;
     }
 
-    TimeZone getTimeZone() {
-        return timeZone;
+    TimeZone getTimeZone
     }
 
+Ondra
     private LongSparseArray<Double> convertToSparseArray(JSONArray array) {
         if (array == null) {
             isValid = false;
