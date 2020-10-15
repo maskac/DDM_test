@@ -156,7 +156,7 @@ public class Profile {
     TimeZone getTimeZone() {
         return timeZone;
     }
-
+Kuba
     private LongSparseArray<Double> convertToSparseArray(JSONArray array) {
         if (array == null) {
             isValid = false;
